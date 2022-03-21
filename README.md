@@ -1,6 +1,6 @@
-# A Simple Digital Poem
+# Burger Time!
 
-A simple digital poem that builds each line from three lists created as an example for the Horizons Digital Writing lab.
+A simple digital poem about the most magical time of the day! A remix of We Walk to You.
 
 ## Made on [Glitch](https://glitch.com/)
 
